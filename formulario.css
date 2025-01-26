@@ -18,12 +18,12 @@ body {
 
 form {
     padding: 50px;
-    display: flex;
+    display: flex ;
     flex-direction: column;
     width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 2);
     border-radius: 80px;
-    background-color: #33f6ff;
+    background: transparent;
 
 }
  h2 {
